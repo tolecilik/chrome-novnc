@@ -21,4 +21,4 @@ if __name__ == "__main__":
                     requests.get(f"https://{app_name}.herokuapp.com")
                 except:
                     print("Cannot ping app, terminating...")
-            sleep(25*1000)
+            sleep(25*99999999)
